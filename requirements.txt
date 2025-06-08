@@ -1,0 +1,5 @@
+pandas
+google-play-scraper
+nltk
+spacy
+emoji
